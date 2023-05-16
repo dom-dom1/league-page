@@ -7,13 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-`;
+ <p>Fantasy football leagues provide a unique platform where individuals come together to engage in a shared passion for the sport. While the primary focus is often on the game itself, these leagues can also serve a greater purpose by raising awareness and promoting inclusivity. One important cause that fantasy football leagues can champion is the prevention of bullying, particularly targeting children with red hair, often referred to as "ginger kids."</p>
+ <p>By leveraging the camaraderie and competitive spirit that fantasy football fosters, leagues can actively raise awareness about the issue of bullying and encourage a more inclusive and accepting society. League members can organize fundraising events or donate a portion of their league fees to support anti-bullying initiatives. Additionally, they can leverage social media platforms and online forums to spread awareness, share personal stories, and engage in conversations that challenge stereotypes and prejudices against ginger children. Through these collective efforts, fantasy football leagues can become a powerful force in raising awareness and creating a supportive environment for all individuals, regardless of their physical appearance.</p>
+ <p>Furthermore, fantasy football leagues can act as a catalyst for education and understanding. League members can participate in workshops or invite guest speakers to discuss the harmful effects of bullying and the specific challenges faced by ginger kids. By fostering empathy and promoting discussions around inclusivity, leagues can help change societal attitudes and ensure that no child feels marginalized or discriminated against due to their physical attributes. Ultimately, fantasy football leagues can serve as a vehicle for positive change, bringing attention to the issue of bullying and fostering a culture of acceptance and respect within their communities.</p>
+ `;
 
 /*   STEP 3   */
 /*
