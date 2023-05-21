@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+     "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Aiden",
       "location": "347 Don Shula Dr", // (optional)
       "bio": "I support the Ginger awareness and my winning will go towards the advancement of Gingers.",
@@ -43,7 +43,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-    "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Teddy",
     "location": "Fishing", // (optional)
     "bio": "2 balls, 1 shoulder, 0 fucks given.",
@@ -63,7 +63,7 @@ export const managers = [
     "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-    "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Jakejen4",
     "location": "Cuba", // (optional)
     "bio": "I was scammed last year I’m coming to win it all this year.",
@@ -83,7 +83,7 @@ export const managers = [
     "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Camden",
     "location": "Guangdong", // (optional)
     "bio": "Karl Marx was right.",
@@ -103,7 +103,7 @@ export const managers = [
     "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Dom",
     "location": "Orlando, FL", // (optional)
     "bio": "Buffalo Bills 2024 SB Champions.",
@@ -123,7 +123,7 @@ export const managers = [
     "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   {
-    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Cole",
     "location": "Bodybuilding Contest", // (optional)
     "bio": "idk",
@@ -143,7 +143,7 @@ export const managers = [
     "preferredContact": "Email", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Vincent",
     "location": "The casino", // (optional)
     "bio": "idk",
@@ -163,7 +163,7 @@ export const managers = [
     "preferredContact": "Discord", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "John",
     "location": "nowhere", // (optional)
     "bio": "There was no check.",
@@ -183,7 +183,7 @@ export const managers = [
     "preferredContact": "Email", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Wayne",
     "location": "7/11", // (optional)
     "bio": "Need the eagles to carry me.",
@@ -203,7 +203,7 @@ export const managers = [
     "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Joey",
     "location": "Bovada", // (optional)
     "bio": "match?",
@@ -223,7 +223,7 @@ export const managers = [
     "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Gabe",
     "location": "Tijuana, Mexico", // (optional)
     "bio": "currently under construction",
@@ -243,7 +243,7 @@ export const managers = [
     "preferredContact": "Email", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Gavin",
     "location": "Miami, FL", // (optional)
     "bio": "idk",
