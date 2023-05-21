@@ -223,7 +223,7 @@ export const managers = [
     "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
  {
-    "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Gabe",
     "location": "Tijuana, Mexico", // (optional)
     "bio": "currently under construction",
